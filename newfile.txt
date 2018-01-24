@@ -1,0 +1,2 @@
+This is a new file created after cloning repo on linux machine using git command line
+modified
